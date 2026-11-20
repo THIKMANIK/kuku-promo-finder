@@ -1,0 +1,110 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Nora confronts Sam about the photo and learns that her father hid a second will in the shop, just as Theo arrives with a lawyer to take it.
+CONTINUITY NOTES: Continues the next morning. Sam worked for Nora's father. The second will names Nora as owner and hints at something hidden under the shop.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. FLOWER SHOP – MORNING
+Scene start: 00:00.00
+Scene end: 01:08.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Recap: the old photo shaking in Nora's hand.
+
+**ACTION:**
+Start: (00:03.00) | End: (00:06.00)
+Morning light. Nora opens the door before Sam can knock and holds up the photo.
+
+**NORA (Accusing):**
+Start: (00:06.00) | End: (00:08.50)
+"You knew my father."
+
+**SAM (Calm, Guarded):**
+Start: (00:09.00) | End: (00:11.00)
+"I worked for him. For ten years."
+
+**NORA (Furious):**
+Start: (00:11.50) | End: (00:14.50)
+"Then you knew Theo was going to throw me out!"
+
+**SAM (Firm):**
+Start: (00:15.00) | End: (00:18.50)
+"I knew he would try. Your father knew too."
+
+**ACTION:**
+Start: (00:18.50) | End: (00:22.00)
+Sam walks to the old cash register and presses a hidden latch underneath it.
+
+**SOUND FX:**
+Start: (00:22.00) | End: (00:23.50)
+A drawer clicks open.
+
+**ACTION:**
+Start: (00:23.50) | End: (00:27.00)
+Inside lies a sealed envelope with Nora's name on it in her father's handwriting.
+
+**SAM (Quiet):**
+Start: (00:27.00) | End: (00:30.00)
+"He wrote a second will. Theo has never seen it."
+
+**NORA (Breathless):**
+Start: (00:30.50) | End: (00:32.00)
+"What does it say?"
+
+**SOUND FX:**
+Start: (00:32.00) | End: (00:33.50)
+Car tires screech outside.
+
+**ACTION:**
+Start: (00:33.50) | End: (00:37.00)
+Theo storms in with a nervous lawyer in a grey suit at his side.
+
+**THEO (Furious):**
+Start: (00:37.00) | End: (00:40.00)
+"Whatever he gave you, it belongs to me."
+
+**ACTION:**
+Start: (00:40.00) | End: (00:43.00)
+Theo lunges for the envelope. Sam steps between them.
+
+**SAM (Cold, Threatening):**
+Start: (00:43.00) | End: (00:46.00)
+"Touch her again and you lose more than a building."
+
+**LAWYER (Nervous):**
+Start: (00:46.50) | End: (00:49.50)
+"Mr. Hale, if that will is genuine, the shop is hers."
+
+**THEO (Seething):**
+Start: (00:50.00) | End: (00:52.00)
+"Then it is not genuine."
+
+**ACTION:**
+Start: (00:52.00) | End: (00:56.00)
+Nora tears the envelope open. A small brass key falls out with the letter.
+
+**NORA (Reading, Shaking):**
+Start: (00:56.00) | End: (01:00.00)
+"To my daughter. The shop is yours. And so is everything under it."
+
+**CAMERA:**
+Start: (01:00.00) | End: (01:03.00)
+Close-up on the key: it is stamped with the number of a bank vault.
+
+**THEO (Panicked):**
+Start: (01:03.00) | End: (01:05.00)
+"Under it? What is under it?"
+
+**MUSIC:**
+Start: (01:04.00) | End: (01:07.00)
+A sharp sting as the frame freezes on Nora's face.
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:08.00)
+Cut to black.
+
+--- SCRIPT END ---

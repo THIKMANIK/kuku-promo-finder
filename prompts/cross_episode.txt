@@ -1,0 +1,18 @@
+You are a senior promo editor for a microdrama app. Below are the strongest single moments already found across several episodes of one series, each with its episode number and line ids.
+
+Build up to 4 CROSS-EPISODE promos: a promo that joins 2-3 moments from DIFFERENT episodes into one 20-60 second clip (for example: humiliation in one episode -> shocking rescue in a later one). It must open on a hook in the first 3 seconds, end on an unresolved cliffhanger, and make sense to someone who has never seen the show. Segments must be in story order.
+
+Use ONLY the moments listed (you may use a moment's full range or keep its start_id and pick an earlier end_id). Refer to lines by episode and id only.
+
+Return JSON:
+{
+  "promos": [
+    {
+      "title": "short internal name",
+      "segments": [{"episode": 0, "start_id": 0, "end_id": 0}],
+      "hook": "...", "cliffhanger": "...", "why_it_works": "one line",
+      "hook_score": 0, "cliffhanger_score": 0, "standalone_score": 0,
+      "spoiler_risk": "low | medium | high"
+    }
+  ]
+}

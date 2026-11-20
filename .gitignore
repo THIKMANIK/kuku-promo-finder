@@ -1,0 +1,23 @@
+# secrets
+.env
+.streamlit/secrets.toml
+
+# confidential input pack and everything derived from it
+data/
+outputs/
+*.zip
+*Zone.Identifier
+
+# local environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# scratch / editor folders
+scratch/
+tmp/
+.claude/
+.vscode/
+.idea/

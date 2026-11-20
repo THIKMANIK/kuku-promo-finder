@@ -1,0 +1,118 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Nora's stepbrother Theo tells her their late father left him the building that holds her flower shop, and gives her until Friday to get out, while a quiet delivery driver watches from across the street.
+CONTINUITY NOTES: First episode. Establishes Nora, her flower shop, her stepbrother Theo, and Sam, a delivery driver who seems to know more than he says.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. FLOWER SHOP – NIGHT
+Scene start: 00:00.00
+Scene end: 01:09.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Slow wide shot of a narrow street at night, rain running down the shop windows.
+
+**ACTION:**
+Start: (00:01.00) | End: (00:04.00)
+Nora counts coins at the counter of her small flower shop, half the lights already off.
+
+**SOUND FX:**
+Start: (00:04.00) | End: (00:05.50)
+The shop bell rings sharply as the door swings open.
+
+**ACTION:**
+Start: (00:05.50) | End: (00:08.00)
+Theo, her stepbrother, walks in shaking rain from an expensive coat, an envelope in his hand.
+
+**THEO (Smug, Cold):**
+Start: (00:08.00) | End: (00:10.50)
+"You have until Friday, Nora."
+
+**NORA (Confused):**
+Start: (00:11.00) | End: (00:12.50)
+"Until Friday for what?"
+
+**THEO (Gloating):**
+Start: (00:13.00) | End: (00:16.50)
+"To get out. Dad left the building to me. Not to you."
+
+**CAMERA:**
+Start: (00:16.50) | End: (00:18.50)
+Close-up on Nora's face as the color drains from it.
+
+**NORA (Shocked, Whispering):**
+Start: (00:18.50) | End: (00:20.50)
+"That is not true. He promised me."
+
+**THEO (Mocking):**
+Start: (00:21.00) | End: (00:24.50)
+"Promises are not paperwork, little sister."
+
+**ACTION:**
+Start: (00:24.50) | End: (00:28.00)
+Theo drops the envelope on the counter. It slides into a bucket of water and the ink starts to run.
+
+**NORA (Desperate):**
+Start: (00:28.00) | End: (00:31.00)
+"Theo, this shop is all I have left of him."
+
+**ACTION:**
+Start: (00:31.00) | End: (00:34.00)
+Theo turns toward the door without looking back.
+
+**THEO (Cold):**
+Start: (00:33.20) | End: (00:36.50)
+"Then you should have been a better daughter."
+
+**SOUND FX:**
+Start: (00:36.50) | End: (00:38.00)
+The door slams and the bell clatters to the floor.
+
+**ACTION:**
+Start: (00:38.00) | End: (00:42.00)
+Nora sinks to the floor among the buckets of flowers, a hand pressed over her mouth.
+
+**CAMERA:**
+Start: (00:42.00) | End: (00:44.00)
+Slow push in on a delivery van parked across the street, its engine running.
+
+**ACTION:**
+Start: (00:44.00) | End: (00:48.00)
+Inside the van, Sam, the quiet delivery driver, watches the shop and lifts a phone to his ear.
+
+**SAM (Low, Serious):**
+Start: (00:48.00) | End: (00:51.50)
+"It's happening. He's pushing her out."
+
+**VOICE ON PHONE (O.S.) (Urgent):**
+Start: (00:52.00) | End: (00:55.00)
+"Does she know who she really is?"
+
+**SAM (Hesitant):**
+Start: (00:55.50) | End: (00:57.50)
+"Not yet."
+
+**ACTION:**
+Start: (00:57.50) | End: (01:01.00)
+Behind the counter, Nora finds an old photo: her father standing next to a much younger Sam.
+
+**NORA (Stunned):**
+Start: (01:01.00) | End: (01:03.50)
+"Why are you in this picture?"
+
+**CAMERA:**
+Start: (01:03.50) | End: (01:06.00)
+Close-up on the photo, her thumb trembling over the young man's face.
+
+**MUSIC:**
+Start: (01:04.00) | End: (01:08.00)
+A low string note swells to an ominous cliffhanger peak.
+
+**CAMERA:**
+Start: (01:08.00) | End: (01:09.00)
+Cut to black.
+
+--- SCRIPT END ---
